@@ -1,7 +1,7 @@
 from turtle import Turtle
 import random
 
-COLORS = ["#FF0000", "#FFC000", "#FFFC00", "#FF0000", "#00FFFF", "#FF0000"]
+COLORS = ["#FF0000", "#FFC000", "#FFFC00", "#FF0000", "#00FFFF", "#FF0000", "#00CFFF"]
 
 
 class Food(Turtle):
